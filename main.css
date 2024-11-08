@@ -1,0 +1,9 @@
+/*
+* Author: Joaquin Gomez
+* Purpose: CSS for COMP001B Assignment 4-1
+*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
