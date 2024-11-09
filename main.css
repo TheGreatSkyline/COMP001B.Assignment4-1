@@ -13,6 +13,7 @@ header {
     padding: 20px;
     text-align: center;
 }
+
 main {
     padding: 20px;
 }
@@ -21,4 +22,12 @@ footer {
     color: #fff;
     padding: 20px;
     text-align: center;
+}
+.home {
+    background-image: url(images/2024-nissan-gt-r-green-rear-view.png);
+    background-size: cover;
+    height: 400px;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
 }
